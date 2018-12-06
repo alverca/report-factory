@@ -18,7 +18,7 @@
 npm install @toei-jp/report-factory
 ```
 
-### Environment variables
+### Environment variables 
 
 | Name    | Required | Value            | Purpose |
 |---------|----------|------------------|---------|

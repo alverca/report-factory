@@ -1,5 +1,5 @@
 {
-  "name": "@toei-jp/toei-report-factory",
+  "name": "@toei-jp/report-factory",
   "version": "1.0.0",
   "description": "Report Factory Library for Javascript",
   "main": "./lib/index.js",
@@ -33,6 +33,12 @@
   "author": {
     "name": "Motionpicture co.,ltd."
   },
+  "contributors": [
+    {
+      "name": "Tetsu Yamazaki",
+      "email": "yamazaki@motionpicture.jp"
+    }
+  ],
   "license": "ISC",
   "devDependencies": {
     "@types/mocha": "^5.2.1",

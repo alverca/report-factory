@@ -1,5 +1,5 @@
 {
-  "name": "@toei-jp/report-factory",
+  "name": "@toei-jp/toei-report-factory",
   "version": "1.0.0",
   "description": "Report Factory Library for Javascript",
   "main": "./lib/index.js",

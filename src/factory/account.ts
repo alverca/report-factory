@@ -32,4 +32,16 @@ export interface IAccount extends ICommon {
      * 科目細目名
      */
     subjectDetailName: string;
+    /**
+     * 科目区分コード
+     */
+    typeCode: string;
+    /**
+     * 科目区分名
+     */
+    typeName: string;
+    /**
+     * 動員対象
+     */
+    mobilizeTarget: string;
 }

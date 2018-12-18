@@ -67,21 +67,17 @@ export interface IIncome extends ICommon {
     /**
      * 作品コード
      */
-    movieCd: string;
-    /**
-     * 作品名
-     */
-    movieName: string;
+    workCd: string;
     /**
      * 上映作品ID
      */
-    workId: string;
-    /**
-     * 上映作品コード
-     */
-    workCd: string;
+    screeningWorkId: string;
     /**
      * 上映作品名
      */
-    workName: string;
+    screeningWorkName: string;
+    /**
+     * 上映作品サーブタイトル
+     */
+    screeningWorkSubTitle: string;
 }
